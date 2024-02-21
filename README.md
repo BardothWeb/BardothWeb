@@ -22,5 +22,4 @@ My journey began with coding Discord bots using JavaScript, where I honed my ski
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 ### Stats
-![Stats1](https://github-readme-stats.vercel.app/api/top-langs/?username=BardothWeb&theme=purple-blue)
-![Stats2](https://github-readme-stats.vercel.app/api?username=BardothWeb&theme=purple-blue)
+![Stats1](https://github-readme-stats.vercel.app/api?username=BardothWeb&theme=blue-green)
