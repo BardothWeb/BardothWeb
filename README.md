@@ -18,7 +18,3 @@ My journey began with coding Discord bots using JavaScript, where I honed my ski
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![MacOs](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
 
-
-### 💻 My Stats
-[![Streak](https://github-readme-streak-stats.herokuapp.com/?user=BardothWeb-aka&hide_border=true&background=0D1117&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&dates=FFFFFF&sideNums=FFFFFF&fire=f04848&ring=f04848&stroke=FFFFFFFF)]()
-![Slush's GitHub stats](https://github-readme-stats.vercel.app/api?username=bardothweb-aka&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF)
