@@ -22,6 +22,12 @@ My journey began with coding Discord bots using JavaScript, where I honed my ski
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 ### Stats
-![Stats1](https://github-readme-stats.vercel.app/api?username=BardothWeb&theme=blue-green)
 ![Stats](https://github-readme-stats.vercel.app/api?username=BardothWeb&theme=dark)
 
+### Contact Me
+
+Feel free to reach out to me on Discord:
+
+Discord: .bardoth
+
+![Heart](http://ForTheBadge.com/images/badges/built-with-love.svg)
