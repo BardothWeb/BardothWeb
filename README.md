@@ -23,4 +23,5 @@ My journey began with coding Discord bots using JavaScript, where I honed my ski
 
 ### Stats
 ![Stats1](https://github-readme-stats.vercel.app/api?username=BardothWeb&theme=blue-green)
-![Stats2](https://github-readme-stats.vercel.app/api?username=BardothWeb&theme=merko)
+![Stats](https://github-readme-stats.vercel.app/api?username=BardothWeb&theme=dark)
+
