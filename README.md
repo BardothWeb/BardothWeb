@@ -3,7 +3,6 @@
 
 Hi there! I'm Bardoth, a passionate frontend developer specializing in crafting engaging and user-friendly websites. With a keen eye for design and a love for clean code, I thrive on bringing creative ideas to life in the digital world.
 
-world.
 
 ### ℹ️ About Me
 
