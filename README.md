@@ -18,8 +18,8 @@ My journey began with coding Discord bots using JavaScript, where I honed my ski
 
 ### OS I Use
 
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![MacOs](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 ### Stats
 ![Stats1](https://github-readme-stats.vercel.app/api/top-langs/?username={bardothWeb}&theme=blue-green)
