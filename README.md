@@ -30,7 +30,7 @@ Feel free to reach out to me on Discord:
 
 Discord: .bardoth
 
-### Stats 📊
+### 📊 Stats 
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=BardothWeb&theme=dark)
 
