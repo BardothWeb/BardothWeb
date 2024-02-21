@@ -30,4 +30,3 @@ Feel free to reach out to me on Discord:
 
 Discord: .bardoth
 
-![Heart](http://ForTheBadge.com/images/badges/built-with-love.svg)
